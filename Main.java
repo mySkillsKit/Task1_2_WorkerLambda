@@ -1,7 +1,5 @@
 package Task1_2_WorkerLambda;
 
-import Task1_2_WorkerLambda.Worker.*;
-
 public class Main {
 
 
